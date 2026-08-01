@@ -11,6 +11,8 @@ I'm Thiago, a computer engineer who likes building AI that holds up outside the 
 - [Repository for post-grad class about deep learning](https://github.com/ThiagoFPMR/PPGEEC2321)
 - [Whiteboard reader for an image processing llass](https://github.com/ThiagoFPMR/board2tex)
 
+_Profile image is by [Nathan Dumlao](https://unsplash.com/@nate_dumlao) on Unsplash_
+
 <!--
 **ThiagoFPMR/ThiagoFPMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
