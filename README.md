@@ -7,9 +7,9 @@ I'm Thiago, a computer engineer who likes building AI that holds up outside the 
 - [CUAPruning: Investigating domain-specific pruning stategies for reducing larger CUAs](https://github.com/ThiagoFPMR/CUAPruning) — _might still be private_ 🔒
 
 ### 📚 Some stuff I did during university:
-- [Repository for Post-grad Class About Unsupervised ML](https://github.com/ThiagoFPMR/PPGEEC2325) — _includes some word2vec demos_
-- [Repository for Post-grad Class About Deep Learning](https://github.com/ThiagoFPMR/PPGEEC2321)
-- [Whiteboard Reader for an Image Processing Class](https://github.com/ThiagoFPMR/board2tex)
+- [Repository for post-grad class about unsupervised ML](https://github.com/ThiagoFPMR/PPGEEC2325) — _includes some word2vec demos_
+- [Repository for post-grad class about deep learning](https://github.com/ThiagoFPMR/PPGEEC2321)
+- [Whiteboard reader for an image processing llass](https://github.com/ThiagoFPMR/board2tex)
 
 <!--
 **ThiagoFPMR/ThiagoFPMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
