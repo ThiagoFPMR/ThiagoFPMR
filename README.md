@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Thiago, a computer engineer who likes taking apart AI models to figure out how they actually work (what they learn, where they break, and why), and then turning those insights into improvements that matter once they're out in the wild. My work spans computer vision, embedded systems, and LLM/VLM agents, but the common thread is building systems that can handle complex workflows in dynamic environments, within the constraints that let them actually be used.
 
-### 📌 What I'm up to
+## 📌 What I'm up to
 
 **At work:** I'm a team/tech lead at the Brazilian R&D company [dtLabs](https://dt-labs.ai/en/). In my day-to-day, I work directly with clients to build AI, computer vision, and embedded solutions for their problems. That usually means starting from an open problem, coming up with an idea that might crack it, and then turning that idea into something deployable under memory and computation constraints.
 
@@ -14,14 +14,14 @@ I'm Thiago, a computer engineer who likes taking apart AI models to figure out h
 
 Most of this isn't public yet, so if any of it sounds interesting, feel free to reach out and chat about it!
 
-### 💻 Publicly available stuff I recently worked on:
+## 💻 Publicly available stuff I recently worked on:
 
 The parts of my CUA work that are already out in the open.
 
 - [CUA-OP: On-policy profiling and pruning for Mixture-of-Experts (MoE) computer-use agents](https://github.com/ThiagoFPMR/CUA-OP)
 - [CUATestbed: Investigating efficient fine-tuning strategies for compact CUAs](https://github.com/ThiagoFPMR/CUATestbed)
 
-### 📚 Some stuff I did during university:
+## 📚 Some stuff I did during university:
 
 Recently graduated! Some of these are from grad classes I took during undergrad.
 
