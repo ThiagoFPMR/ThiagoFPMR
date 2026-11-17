@@ -3,8 +3,8 @@ I'm Thiago, a computer engineer who likes building AI that holds up outside the 
 
 ### 💻 I'm currently working on:
 
-- [CUAFactory: Investigating efficient fine-tuning for compact CUAs](https://github.com/ThiagoFPMR/CUAFactory)
-- [CUAPruning: Investigating domain-specific pruning stategies for reducing larger CUAs](https://github.com/ThiagoFPMR/CUAPruning) — _might still be private_ 🔒
+- [CUA-OP: On-policy profiling and pruning for Mixture-of-Experts (MoE) computer-use agents](https://github.com/ThiagoFPMR/CUA-OP) 
+- [CUATestbed: Investigating efficient fine-tuning for compact CUAs](https://github.com/ThiagoFPMR/CUATestbed)
 
 ### 📚 Some stuff I did during university:
 - [Repository for post-grad class about unsupervised ML](https://github.com/ThiagoFPMR/PPGEEC2325) — _includes some word2vec demos_
