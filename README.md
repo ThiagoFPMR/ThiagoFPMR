@@ -4,9 +4,9 @@ I'm Thiago, a computer engineer who likes taking apart AI models to figure out h
 
 ### 📌 What I'm up to
 
-**At work:** I'm a team/tech lead at [dtLabs](https://dt-labs.ai/en/), a Brazilian R&D company. Day to day, I work directly with clients to build AI, computer vision, and embedded solutions for their problems. That usually means starting from an open problem, coming up with an idea that might crack it, and then turning that idea into something deployable under tight memory and compute constraints.
+**At work:** I'm a team/tech lead at the Brazilian R&D company [dtLabs](https://dt-labs.ai/en/). In my day-to-day, I work directly with clients to build AI, computer vision, and embedded solutions for their problems. That usually means starting from an open problem, coming up with an idea that might crack it, and then turning that idea into something deployable under memory and computation constraints.
 
-**In my free time:** I dig into the LLM/VLM and scalability side of things. Lately I've mostly been looking at computer-use agents (CUAs) and how to make them plan better and run cheaper. *Right now that includes:*
+**In my free time:** I like to dig into the LLM/VLM and scalability side of things. Lately I've mostly been looking at computer-use agents (CUAs) and how to make them plan better and run cheaper. *Right now that includes:*
 
 - 🧩 **Wrapping up an analysis of MoE pruning for CUA models:** what actually happens to agent behavior when you start cutting experts. CUA-OP (below) is part of this, and I'm planning to publish the full analysis.
 - 🔁 **Starting work on continual learning for CUAs:** so they can keep learning new, out-of-distribution interfaces instead of being stuck with whatever they saw in training.
