@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Thiago, a computer engineer who likes building AI that holds up outside the lab. Most of my work sits at the intersection of computer vision, machine learning systems, and edge deployment, and I care about getting real capability out of small, efficient models under tight compute and latency budgets.
 
-### 💻 I'm currently working on:
+### 💻 Publicly available stuff I've recently worked on:
 
 - [CUA-OP: On-policy profiling and pruning for Mixture-of-Experts (MoE) computer-use agents](https://github.com/ThiagoFPMR/CUA-OP) 
 - [CUATestbed: Investigating efficient fine-tuning for compact CUAs](https://github.com/ThiagoFPMR/CUATestbed)
