@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Thiago, a computer engineer who likes taking apart AI models to figure out how they actually work (what they learn, where they break, and why), and then turning those insights into improvements that matter once they're out in the wild. My work spans computer vision, embedded systems, and LLM/VLM agents, but the common thread is building systems that can handle complex workflows in dynamic environments, within the constraints that let them actually be used.
 
